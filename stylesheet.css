@@ -1,0 +1,168 @@
+/* == GLOBAL == */
+
+body {
+  background-color: #FFFFFF;
+}
+
+nav {
+  background-color: #F7F7F7;
+  opacity: 0.65;
+}
+
+.jumbotron {
+  position: relative;
+  background-image: url("Boston.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 950px;
+}
+
+#logo {
+  position: absolute;
+  top: 25%;
+
+}
+
+.container-fluid {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.page-header{
+  padding-bottom: 10px;
+}
+
+.col-sm-8 {
+  padding-right: 60px;
+}
+
+h1, h3, h4, h5 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+
+/* == ABOUT SECTION == */
+
+#photo {
+  background-image: url("brooklyn bridge.png");
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+blockquote { padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17px;
+    border-left: 5px solid #FED3BA; }
+
+
+/* == EXPERIENCE SECTION == */
+
+#experience {
+  background-color: #F7F7F7;
+}
+
+/* == PROJECT SECTION == */
+
+#modalContainer{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#projectContainer {
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+}
+
+#animatorProjectPhoto {
+  min-height: 345px;
+  background-image: url(exampleAnimator.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#animatorModalProjectPhoto {
+  min-height: 450px;
+  background-image: url(example_animator.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+#freecellProjectPhoto {
+  min-height: 345px;
+  background-image: url(freecellExample.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#freecellModalProjectPhoto {
+  min-height: 450px;
+  background-image: url(freecellExample.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#mazeProjectPhoto {
+  min-height: 345px;
+  background-image: url(exampleMaze.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#mazeModalProjectPhoto {
+  min-height: 450px;
+  background-image: url(exampleMazeModal.png);
+  /* background-color: #E7D7FE; */
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-position: center;
+}
+
+#forbiddenIslandProjectPhoto {
+  min-height: 345px;
+  background-image: url(exampleForbiddenIsland.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#forbiddenIslandModalProjectPhoto {
+  min-height: 450px;
+  background-image: url(exampleModalForbiddenIsland.png);
+  /* background-color: #E7D7FE; */
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-position: center;
+}
+
+#projectBody {
+  padding-top: 30px;
+}
+
+/* == CONTACT SECTION == */
+
+#contact {
+  background-color: #F7F7F7;
+}
+
+#contactSection {
+  padding-left: 45px;
+}
+
+#subjectLine {
+  padding-top: 30px;
+}
+
+#messageSend {
+  padding-top: 30px;
+}
