@@ -113,34 +113,30 @@ blockquote { padding: 10px 20px;
   background-position: center;
 }
 
-#mazeProjectPhoto {
+#massProjectPhoto {
   min-height: 345px;
-  background-image: url(exampleMaze.png);
+  background-image: url(mass_precinct_example.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-#mazeModalProjectPhoto {
+#massModalProjectPhoto {
   min-height: 450px;
-  background-image: url(exampleMazeModal.png);
-  /* background-color: #E7D7FE; */
-  /* background-repeat: no-repeat; */
+  background-image: url(mass_precinct_example.png);
   background-size: cover;
   background-position: center;
 }
 
-#forbiddenIslandProjectPhoto {
+#bostonArtProjectPhoto {
   min-height: 345px;
-  background-image: url(exampleForbiddenIsland.png);
+  background-image: url(boston_art_db.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-#forbiddenIslandModalProjectPhoto {
+#bostonArtModalProjectPhoto {
   min-height: 450px;
-  background-image: url(exampleModalForbiddenIsland.png);
-  /* background-color: #E7D7FE; */
-  /* background-repeat: no-repeat; */
+  background-image: url(boston_art_db.png);
   background-size: cover;
   background-position: center;
 }
