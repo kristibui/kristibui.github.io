@@ -1,0 +1,67 @@
+@font-face {
+  font-family: 'Nunito';
+  src: local('Nunito'), url(./fonts/Nunito-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  src: local('OpenSans'), url(./fonts/OpenSans-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'FjallaOne';
+  src: local('FjallaOne'), url(./fonts/FjallaOne-Regular.ttf) format('truetype');
+}
+
+body {
+  font-family: Nunito, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.sidebar {
+  width: 25%;
+  margin: 30px 20px 30px 20px;
+}
+
+a { 
+  color: inherit; 
+} 
+
+.img-sidebar {
+  position: relative;
+}
+
+.sidebar-pic {
+  width: 100%;
+}
+
+.sidebar-name {
+  font-family: FjallaOne, Helvetica, sans-serif;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  font-size: 50px;
+}
+
+.sidebar-titles {
+  position: absolute;
+  top: 80px;
+  left: 15px;
+}
+
+.links {
+  text-align: center;
+  color: #686868;
+}
+
+.ind-link {
+  text-decoration: none;
+}
+
+.ind-link:hover {
+  color: #668aff;
+}
