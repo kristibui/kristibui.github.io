@@ -1,3 +1,33 @@
-h1 {
+.content {
+    margin-left: 30px;
+}
+
+.headline {
     font-family: FjallaOne, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    font-size: 70px;
+    color: #738959;
+}
+
+.sub-headline {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    color: #b1c887;
+}
+
+.about-body {
+    max-width: 575px;
+    font-size: 20px;
+}
+
+.learn-more-btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 90px;
+    color: #b1c887;
+    font-weight: bold;
+    border: solid 1px #b1c887;
+    border-radius: 8px;
 }
