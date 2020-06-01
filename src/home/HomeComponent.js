@@ -9,11 +9,9 @@ const HomeComponent = () => {
             <h2 className='sub-headline'>I am a data-passionate developer and student.</h2>
 
             <div className='about-body'>
-                <p>
-    I currently work at <i>Capital One</i> as a <b>Software Engineering Intern</b>, and in the Fall of 2020, will be 
-                working as <i>Signify Health</i> as an <b>Analytic Engineering Intern</b>. I am a senior Computer Science student 
-                at Northeastern University, and am super interested about data engineering, data visualization, and
-                the interesection of technology and civics. 
+                <p>I am currently a <span className='bolded'>Software Engineering Intern</span> at <i>Capital One</i>, and 
+                will be working as an <span className='bolded'>Analytic Engineering Intern</span> at <i>Signify Health</i> in Fall 2020. I am a fifth-year Computer Science student at Northeastern University, and am super 
+                interested about data engineering, data visualization, and the interesection of technology and civics. 
                 </p>
                 <p>
                 Outside of 👩🏻‍💻, I'm especially passionate about photography, traveling, 

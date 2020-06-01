@@ -24,7 +24,6 @@ body {
 }
 
 .sidebar {
-  /* width: 30%; */
   width: 400px;
   margin: 30px 20px 30px 20px;
 }
@@ -53,15 +52,30 @@ a {
 .sidebar-titles {
   position: absolute;
   color: white;
+  font-size: 20px;
 }
 
-.links {
-  top: 35px;
-  right: 30px;
+.links-1 {
+  top: 20px;
+  right: 18px;
+}
+
+.links-2 {
+  top: 40px;
+  right: 18px;
+}
+
+.links-3 {
+  top: 60px;
+  right: 18px;
 }
 
 .ind-link {
   text-decoration: none;
+}
+
+.sidebar-titles .ind-link:hover {
+  color: #738959;
 }
 
 .icons {

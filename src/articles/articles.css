@@ -1,0 +1,29 @@
+.content {
+    margin-left: 30px;
+}
+
+.headline {
+    font-family: FjallaOne, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    font-size: 70px;
+    color: #738959;
+}
+
+.sub-headline {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    color: #b1c887;
+}
+
+.section {
+    font-size: 30px;
+    margin-top: 0px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: #b1c887;
+}
+
+.divider {
+    border: solid 1px #dae7c3;
+}
