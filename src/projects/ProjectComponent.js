@@ -17,42 +17,42 @@ const ProjectComponent = () => {
                 <div className='project-block grid-item'>
                     <img className='proj-img' src={polls} alt='polls'/>
                     <div class="overlay">
-                        <div class="proj-text">NEU Polls</div>
+                        <a href='/projects/polls' class="proj-text">NEU Polls</a>
                     </div>
                 </div>
 
                 <div className='project-block grid-item'>
                     <img className='proj-img' src={food} alt='food-recommendations'/>
                     <div class="overlay">
-                        <div class="proj-text">What Should You Order?</div>
+                        <a href='/projects/food' class="proj-text">What Should You Order?</a>
                     </div>
                 </div>
 
                 <div className='project-block grid-item'>
                     <img className='proj-img' src={bosart} alt='boston-art'/>
                     <div class="overlay">
-                        <div class="proj-text">Boston Art Database</div>
+                        <a href='/projects/bosart' class="proj-text">Boston Art Database</a>
                     </div>
                 </div>
 
                 <div className='project-block grid-item'>
                     <img className='proj-img' src={mass} alt='mass-precints'/>
                     <div class="overlay">
-                        <div class="proj-text">MA Marijuana Legalization</div>
+                        <a href='/projects/mass' class="proj-text">MA Marijuana Legalization</a>
                     </div>
                 </div>
 
                 <div className='project-block grid-item'>
                     <img className='proj-img' src={animator} alt='easy-animator'/>
                     <div class="overlay">
-                        <div class="proj-text">Easy Animator</div>
+                        <a href='/projects/animator' class="proj-text">Easy Animator</a>
                     </div>
                 </div>
 
                 <div className='project-block grid-item'>
                     <img className='proj-img' src={freecell} alt='freecell'/>
                     <div class="overlay">
-                        <div class="proj-text">Freecell</div>
+                        <a href='/projects/freecell' class="proj-text">Freecell</a>
                     </div>
                 </div>
             </div>

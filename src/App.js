@@ -2,8 +2,14 @@ import React from 'react';
 import { Route, BrowserRouter as Router } from 'react-router-dom';
 import HomeComponent from "./home/HomeComponent";
 import ProjectComponent from "./projects/ProjectComponent";
+import BostonArtComponent from "./projects/boston_art/BostonArtComponent";
+import MassComponent from "./projects/mass/MassComponent";
 import ArticlesComponent from "./articles/ArticlesComponent";
 import ExperienceComponent from "./experience/ExperienceComponent";
+import AnimatorComponent from "./projects/animator/AnimatorComponent";
+import FreecellComponent from "./projects/freecell/FreecellComponent";
+import FoodComponent from "./projects/food/FoodComponent";
+import PollsComponent from "./projects/polls/PollsComponent";
 import me from './me.jpg';
 import resume from './Kristi_Bui_Spring_2020.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -46,6 +52,12 @@ const App = () => {
       <Router>
           <Route exact path="/" component={HomeComponent}></Route>
           <Route exact path="/projects" component={ProjectComponent}></Route>
+          <Route exact path="/projects/bosart" component={BostonArtComponent}></Route>
+          <Route exact path="/projects/mass" component={MassComponent}></Route>
+          <Route exact path="/projects/animator" component={AnimatorComponent}></Route>
+          <Route exact path="/projects/freecell" component={FreecellComponent}></Route>
+          <Route exact path="/projects/food" component={FoodComponent}></Route>
+          <Route exact path="/projects/polls" component={PollsComponent}></Route>
           <Route exact path="/articles" component={ArticlesComponent}></Route>
           <Route exact path="/experience" component={ExperienceComponent}></Route>
       </Router>

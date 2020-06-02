@@ -1,0 +1,25 @@
+.content {
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 700px;
+}
+
+.headline {
+    font-family: FjallaOne, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    font-size: 40px;
+    color: #738959;
+}
+
+.sub-headline {
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    color: #b1c887;
+}
+
+.links {
+    text-decoration: none;
+    color: #738959;
+    font-weight: bold;
+}
