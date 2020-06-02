@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d36cd430.chunk.css",
+    "main.js": "/static/js/main.fce41922.chunk.js",
+    "main.js.map": "/static/js/main.fce41922.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6adf13a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6adf13a3.js.map",
+    "static/js/2.99a306a5.chunk.js": "/static/js/2.99a306a5.chunk.js",
+    "static/js/2.99a306a5.chunk.js.map": "/static/js/2.99a306a5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8a716a23669a0be5ee0087b20fca055f.js": "/precache-manifest.8a716a23669a0be5ee0087b20fca055f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d36cd430.chunk.css.map": "/static/css/main.d36cd430.chunk.css.map",
+    "static/js/2.99a306a5.chunk.js.LICENSE.txt": "/static/js/2.99a306a5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/OpenSans-Bold.1025a6e0.ttf",
+    "static/media/Kristi_Bui_Spring_2020.pdf": "/static/media/Kristi_Bui_Spring_2020.c7509c7a.pdf",
+    "static/media/boston_art_db.png": "/static/media/boston_art_db.3ebc1b85.png",
+    "static/media/exampleAnimator.png": "/static/media/exampleAnimator.6934eb02.png",
+    "static/media/example_animator.svg": "/static/media/example_animator.91adc644.svg",
+    "static/media/food2.png": "/static/media/food2.b9caf218.png",
+    "static/media/food_reccs.png": "/static/media/food_reccs.e4e934f8.png",
+    "static/media/freecellExample.png": "/static/media/freecellExample.9906e819.png",
+    "static/media/mass_precinct_example.png": "/static/media/mass_precinct_example.fe052dc9.png",
+    "static/media/me.jpg": "/static/media/me.798f732a.jpg",
+    "static/media/neu_polls.png": "/static/media/neu_polls.7e0dc433.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6adf13a3.js",
+    "static/js/2.99a306a5.chunk.js",
+    "static/css/main.d36cd430.chunk.css",
+    "static/js/main.fce41922.chunk.js"
+  ]
+}
