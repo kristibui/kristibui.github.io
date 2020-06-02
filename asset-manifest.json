@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/kristibui.github.io/static/css/main.45e6ef13.chunk.css",
+    "main.js": "/kristibui.github.io/static/js/main.e3dc018c.chunk.js",
+    "main.js.map": "/kristibui.github.io/static/js/main.e3dc018c.chunk.js.map",
+    "runtime-main.js": "/kristibui.github.io/static/js/runtime-main.b7dc86f0.js",
+    "runtime-main.js.map": "/kristibui.github.io/static/js/runtime-main.b7dc86f0.js.map",
+    "static/js/2.99a306a5.chunk.js": "/kristibui.github.io/static/js/2.99a306a5.chunk.js",
+    "static/js/2.99a306a5.chunk.js.map": "/kristibui.github.io/static/js/2.99a306a5.chunk.js.map",
+    "index.html": "/kristibui.github.io/index.html",
+    "precache-manifest.fe30322e8123be182d07d0a6afed78fb.js": "/kristibui.github.io/precache-manifest.fe30322e8123be182d07d0a6afed78fb.js",
+    "service-worker.js": "/kristibui.github.io/service-worker.js",
+    "static/css/main.45e6ef13.chunk.css.map": "/kristibui.github.io/static/css/main.45e6ef13.chunk.css.map",
+    "static/js/2.99a306a5.chunk.js.LICENSE.txt": "/kristibui.github.io/static/js/2.99a306a5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kristibui.github.io/static/media/OpenSans-Bold.1025a6e0.ttf",
+    "static/media/Kristi_Bui_Spring_2020.pdf": "/kristibui.github.io/static/media/Kristi_Bui_Spring_2020.c7509c7a.pdf",
+    "static/media/boston_art_db.png": "/kristibui.github.io/static/media/boston_art_db.3ebc1b85.png",
+    "static/media/exampleAnimator.png": "/kristibui.github.io/static/media/exampleAnimator.6934eb02.png",
+    "static/media/example_animator.svg": "/kristibui.github.io/static/media/example_animator.91adc644.svg",
+    "static/media/food2.png": "/kristibui.github.io/static/media/food2.b9caf218.png",
+    "static/media/food_reccs.png": "/kristibui.github.io/static/media/food_reccs.e4e934f8.png",
+    "static/media/freecellExample.png": "/kristibui.github.io/static/media/freecellExample.9906e819.png",
+    "static/media/mass_precinct_example.png": "/kristibui.github.io/static/media/mass_precinct_example.fe052dc9.png",
+    "static/media/me.jpg": "/kristibui.github.io/static/media/me.798f732a.jpg",
+    "static/media/neu_polls.png": "/kristibui.github.io/static/media/neu_polls.7e0dc433.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7dc86f0.js",
+    "static/js/2.99a306a5.chunk.js",
+    "static/css/main.45e6ef13.chunk.css",
+    "static/js/main.e3dc018c.chunk.js"
+  ]
+}
