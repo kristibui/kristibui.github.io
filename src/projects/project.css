@@ -19,15 +19,43 @@
 }
 
 .project-block {
-    width: 300px;
-    height: 300px;
+    width: 210px;
+    height: 210px;
     margin-right: 20px;
     margin-bottom: 20px;
-    background-color: #b1c887;
-    border: solid 0.25px #738959;
-    display: inline-block;
+    background-color: #22291a;
+    border: none;
+    display: inline-flex;
 }
 
-.proj-pic {
-    max-width:100%;
+.proj-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: .5s ease;
+}
+
+.overlay {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    display: flex;
+    width: 210px;
+    height: 210px;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-block:hover .proj-img {
+    opacity: 0.3;
+}
+  
+.project-block:hover .overlay {
+    opacity: 1;
+}
+  
+.proj-text {
+    color: white;
+    font-family: FjallaOne, Helvetica, sans-serif;
+    font-size: 20px;
 }
