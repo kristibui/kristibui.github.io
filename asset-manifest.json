@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.34389d87.chunk.css",
-    "main.js": "/static/js/main.b722434b.chunk.js",
-    "main.js.map": "/static/js/main.b722434b.chunk.js.map",
+    "main.css": "/static/css/main.b84e0da2.chunk.css",
+    "main.js": "/static/js/main.54d59716.chunk.js",
+    "main.js.map": "/static/js/main.54d59716.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6adf13a3.js",
     "runtime-main.js.map": "/static/js/runtime-main.6adf13a3.js.map",
     "static/js/2.99a306a5.chunk.js": "/static/js/2.99a306a5.chunk.js",
     "static/js/2.99a306a5.chunk.js.map": "/static/js/2.99a306a5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fce1c63296c0cff2c88ddb17387f6892.js": "/precache-manifest.fce1c63296c0cff2c88ddb17387f6892.js",
+    "precache-manifest.db73ab7da2c7a6f5cb4f44415c2497f5.js": "/precache-manifest.db73ab7da2c7a6f5cb4f44415c2497f5.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.34389d87.chunk.css.map": "/static/css/main.34389d87.chunk.css.map",
+    "static/css/main.b84e0da2.chunk.css.map": "/static/css/main.b84e0da2.chunk.css.map",
     "static/js/2.99a306a5.chunk.js.LICENSE.txt": "/static/js/2.99a306a5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/OpenSans-Bold.1025a6e0.ttf",
     "static/media/Kristi_Bui_Spring_2020.pdf": "/static/media/Kristi_Bui_Spring_2020.c7509c7a.pdf",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.6adf13a3.js",
     "static/js/2.99a306a5.chunk.js",
-    "static/css/main.34389d87.chunk.css",
-    "static/js/main.b722434b.chunk.js"
+    "static/css/main.b84e0da2.chunk.css",
+    "static/js/main.54d59716.chunk.js"
   ]
 }
