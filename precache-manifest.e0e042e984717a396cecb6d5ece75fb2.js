@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aa0a4056424d4ee46290045f3fdf4fd",
+    "revision": "53fd66d57b062917c858e7cb7905816a",
     "url": "/index.html"
   },
   {
-    "revision": "5214fce4c5b9710e7dd2",
-    "url": "/static/css/main.b84e0da2.chunk.css"
+    "revision": "ee9ab1cdffa1d2fd2529",
+    "url": "/static/css/main.67576104.chunk.css"
   },
   {
     "revision": "0d830df6384c4e6f5baa",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.99a306a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5214fce4c5b9710e7dd2",
-    "url": "/static/js/main.54d59716.chunk.js"
+    "revision": "ee9ab1cdffa1d2fd2529",
+    "url": "/static/js/main.1236317f.chunk.js"
   },
   {
     "revision": "03796a474b1092b5c41f",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/FjallaOne-Regular.4fa36830.ttf"
   },
   {
-    "revision": "c7509c7af76516db9e44a5a1812c9496",
-    "url": "/static/media/Kristi_Bui_Spring_2020.c7509c7a.pdf"
+    "revision": "863b581dd96160336c8d19f59ce19092",
+    "url": "/static/media/Kristi_Bui_Fall_2020.863b581d.pdf"
   },
   {
     "revision": "d2e691bc4a2b696929172cb3d22ce8ba",
